@@ -22,7 +22,7 @@ The Firewall Rule Generator is a command-line tool for creating firewall rules i
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/firewall_rule_generator.git
+   git clone https://github.com/Jsec8/firewall_rule_generator.git
    cd firewall_rule_generator
 
 ## Options
